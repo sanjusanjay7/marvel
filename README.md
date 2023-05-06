@@ -1,4 +1,4 @@
-                                ## **RRR Team** 
+ # **RRR Team** 
   ## Project
 **Create a Serverless Workflow with AWS Step Functions and AWS Lambda**
  
