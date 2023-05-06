@@ -9,7 +9,8 @@ In this project, you will:
 ·      Perform several tests of your workflow to observe how it responds to different inputs
 ·  	Delete the AWS resources you used in the tutorial
 ### Architecture
-![image](https://user-images.githubusercontent.com/131652504/235493755-90dfa55b-bef4-43d2-9370-78a50afa2707.png)
+![image](https://user-images.githubusercontent.com/131652504/236592807-0de89fe1-8314-4a84-ac39-eadc3fbb4c0c.png)
+
 ### Summary
 This is an AWS CloudFormation template that creates resources to automate a call center support session using AWS Step Functions. 
 It creates IAM roles for the Lambda functions and Step Functions state machine. 
